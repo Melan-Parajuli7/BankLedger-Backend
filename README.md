@@ -109,7 +109,6 @@ Once running, you should see confirmation in the terminal that the server has st
 
 ---
 
-
 ### Accounts — `/api/accounts`
 
 | Method | Endpoint                          | Description                          | Protected |

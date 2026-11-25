@@ -172,3 +172,12 @@ After a successful transfer, the sender receives an automated email confirmation
 - Reversal/refund flow for `FAILED` transactions
 - Rate limiting on transfer and auth endpoints
 - Automated tests (unit + integration)
+
+## Author
+
+**Mr.Melan Parajuli**  
+GitHub: [Melan Parajuli](https://github.com/MELAN-PARAJULI7)  
+LinkedIn: [Melan Parajuli](https://www.linkedin.com/in/melan-parajuli-b19b08349/)
+
+---
+
